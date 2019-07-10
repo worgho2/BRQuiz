@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>545190096747-jb3dvne0ecu421lg15ddrbq7jd77d2jb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.545190096747-jb3dvne0ecu421lg15ddrbq7jd77d2jb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC0Rfx6dfP1LANSeqmtueQf1JL6gFZTa8E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>545190096747</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>br.pucpr.sdg-quiz</string>
+	<key>PROJECT_ID</key>
+	<string>sdg-quiz</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sdg-quiz.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:545190096747:ios:b53611e387b8b382</string>
+	<key>DATABASE_URL</key>
+	<string>https://sdg-quiz.firebaseio.com</string>
+</dict>
+</plist>

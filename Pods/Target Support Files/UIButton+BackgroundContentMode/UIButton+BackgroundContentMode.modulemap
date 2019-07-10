@@ -1,0 +1,6 @@
+framework module UIButton_BackgroundContentMode {
+  umbrella header "UIButton+BackgroundContentMode-umbrella.h"
+
+  export *
+  module * { export * }
+}
